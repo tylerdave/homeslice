@@ -2,3 +2,4 @@ include README.rst
 include LICENSE
 include versioneer.py
 include homeslice/_version.py
+include homeslice/docopt/docopt.py

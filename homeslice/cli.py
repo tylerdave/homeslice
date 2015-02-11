@@ -6,7 +6,7 @@ This is the CLI for homeslice
 """
 from __future__ import print_function
 
-from docopt import docopt
+from .docopt import docopt
 
 USAGE = """Homeslice.
 

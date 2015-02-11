@@ -22,7 +22,7 @@ setup(
     url='https://github.com/tylerdave/homeslice',
     packages=find_packages(),
     include_package_data=False,
-    install_requires=[],
+    install_requires=['docopt'],
     license='MIT',
     classifiers=(
         'Development Status :: 3 - Alpha',
