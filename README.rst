@@ -14,8 +14,4 @@ for you to use.
 Usage
 -----
 
-
-License
--------
-
-
+You can't use it. Yet.
