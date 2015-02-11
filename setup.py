@@ -33,10 +33,10 @@ setup(
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.2',
         'Programming Language :: Python :: 3.3'
-        )
+        ),
     entry_points={
         'console_scripts': [
             'homeslice = homeslice.cli:main',
          ],
-        }
+        },
 )
